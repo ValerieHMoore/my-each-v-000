@@ -10,9 +10,3 @@ def my_each(array)
     array
   end
 end
-  
-  else
-    puts "Hey! No block was given!"
-  end
-end
-
